@@ -23,10 +23,14 @@ PS> foreach($dll in gci -Path C:\windows\system32\ -Filter *.dll) { .\dumpexport
 ```
 
 # Sqlite Database 
-the database contains the dll name and the export name in a table defined as following
+
+the `exports.db` is a sqlite3 database that contains the dll name and the export name in a table defined as following
 
 `table|exports|exports|2|CREATE TABLE exports (dllname text, exportname text)`
 
+# JSON Format
+
+A json file is also available `exports.json`
 
 # Credit
 Mr.Un1k0d3r RingZer0 Team
