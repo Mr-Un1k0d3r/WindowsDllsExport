@@ -28,6 +28,20 @@ the `exports.db` is a sqlite3 database that contains the dll name and the export
 
 `table|exports|exports|2|CREATE TABLE exports (dllname text, exportname text)`
 
+The sqlite database can be imported into `sqlite_web` to query the database from a web interface.
+
+`pip3 install sqlite_web`
+
+Copy the `exports.db` and run `sqlite_web` using the following command
+
+```
+sqlite_web -H 0.0.0.0 -p 80 -r -x /opt/exports/exports.db
+```
+
+The `sqlite_web` interface can be queried as shown below
+
+![query](https://github.com/Mr-Un1k0d3r/WindowsDllsExport/raw/main/query.png)
+
 # JSON Format
 
 A json file is also available `exports.json`
