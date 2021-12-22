@@ -1,0 +1,10 @@
+UsbCApi_DeregisterConsumer
+UsbCApi_FreeProviders
+UsbCApi_GetConnectorProperties
+UsbCApi_GetConnectorState
+UsbCApi_GetProviderInformation
+UsbCApi_GetProviders
+UsbCApi_IsEqualChangeStamps
+UsbCApi_RegisterConsumer
+UsbCApi_SetConnectorDataRole
+UsbCApi_SetConnectorPowerRole

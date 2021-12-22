@@ -1,0 +1,5 @@
+KdInitialize
+KdPower
+KdReceivePacket
+KdSendPacket
+KdSetHiberRange

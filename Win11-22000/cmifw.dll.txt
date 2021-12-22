@@ -1,0 +1,4 @@
+DllCanUnloadNow
+DllCsiGetHandler
+EnableGroupW
+unattendW

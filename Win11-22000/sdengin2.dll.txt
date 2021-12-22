@@ -1,0 +1,7 @@
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+ExecuteScheduledBackup
+SdCheck

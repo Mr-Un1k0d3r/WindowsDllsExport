@@ -1,0 +1,3 @@
+Create
+Delete
+Register

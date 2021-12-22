@@ -1,0 +1,4 @@
+CreateSpatialInteractionSourceCollection
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

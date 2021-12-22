@@ -1,0 +1,3 @@
+CreateInputTypeAttributes
+DllCanUnloadNow
+DllGetClassObject

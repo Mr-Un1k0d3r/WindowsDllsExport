@@ -1,0 +1,3 @@
+CPlApplet
+DllCanUnloadNow
+DllGetClassObject

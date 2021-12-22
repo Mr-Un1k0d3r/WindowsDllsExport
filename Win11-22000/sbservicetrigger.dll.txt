@@ -1,0 +1,4 @@
+ServiceTriggerEnumerateTransferredSockets
+ServiceTriggerRetrieveSocketContext
+ServiceTriggerRetrieveSockets
+ServiceTriggerTransferSocketOwnership

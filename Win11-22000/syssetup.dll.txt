@@ -1,0 +1,11 @@
+AsrAddSifEntryA
+AsrAddSifEntryW
+AsrCreateStateFileA
+AsrCreateStateFileW
+AsrFreeContext
+AsrRestorePlugPlayRegistryData
+GetAnswerFileSetting
+SetupChangeFontSize
+SetupInfObjectInstallActionW
+SetupSetDisplay
+WaitForSamService

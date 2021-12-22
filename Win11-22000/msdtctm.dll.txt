@@ -1,0 +1,10 @@
+ASCDefer
+ASCDeliverDeferred
+ASCGetSafeReference
+ASCWrapClassFactory
+ASCWrapObject
+CreateInstance
+DllGetClassObject
+DtcMainExt
+GetTipFunctionalityWorking
+SetTipFunctionalityWorking

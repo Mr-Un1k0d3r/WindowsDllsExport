@@ -1,0 +1,10 @@
+CloseFidoAuthenticationSession
+CreateAuthBuffer
+CreateResourceAccountAuthBuffer
+CreateTokenAuthBuffer
+CreateTokenAuthBufferEx
+GetFidoAuthenticationSessionStatus
+GetSerializedAuthBuffer
+StartChangingFidoPin
+StartFidoAuthenticationSession
+StartSigningFidoClientData

@@ -1,0 +1,2 @@
+D3D12GetInterface
+D3D12SDKVersion

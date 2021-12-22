@@ -1,0 +1,4 @@
+DisplaySaveSettingsEx
+DllCanUnloadNow
+DllGetClassObject
+ShowAdapterSettings

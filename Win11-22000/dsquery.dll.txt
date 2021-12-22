@@ -1,0 +1,8 @@
+DllCanUnloadNow
+DllGetClassObject
+DllInstall
+DllRegisterServer
+DllUnregisterServer
+OpenQueryWindow
+OpenSavedDsQuery
+OpenSavedDsQueryW

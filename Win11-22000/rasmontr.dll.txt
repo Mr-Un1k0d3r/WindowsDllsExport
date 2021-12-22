@@ -1,0 +1,14 @@
+GetDiagnosticFunctions
+InitHelperDll
+RutlAlloc
+RutlAssignmentFromTokenAndDword
+RutlAssignmentFromTokens
+RutlCloseDumpFile
+RutlCreateDumpFile
+RutlDwordDup
+RutlFree
+RutlGetOsVersion
+RutlGetTagToken
+RutlIsHelpToken
+RutlParse
+RutlStrDup

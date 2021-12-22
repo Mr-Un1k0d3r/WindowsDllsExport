@@ -1,0 +1,8 @@
+BrowseForGPO
+CreateGPOLink
+DeleteAllGPOLinks
+DeleteGPOLink
+DllCanUnloadNow
+DllGetClassObject
+ExportRSoPData
+ImportRSoPData

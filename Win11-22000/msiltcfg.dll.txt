@@ -1,0 +1,14 @@
+MsiAdvertiseScriptW
+MsiConfigureProductExW
+MsiDecomposeDescriptorW
+MsiGetComponentPathW
+MsiGetProductInfoW
+MsiIsProductElevatedW
+MsiProvideComponentFromDescriptorW
+MsiQueryFeatureStateFromDescriptorW
+MsiQueryFeatureStateW
+MsiQueryProductStateW
+MsiReinstallProductW
+MsiSetInternalUI
+RestartMsi
+ShutdownMsi

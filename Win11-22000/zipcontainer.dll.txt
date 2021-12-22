@@ -1,0 +1,4 @@
+CreateFileStream
+ZipContainerCreateArchiveOnFile
+ZipContainerInitialize
+ZipContainerUninitialize

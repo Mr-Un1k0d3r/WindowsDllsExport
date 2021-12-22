@@ -1,0 +1,8 @@
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer
+PrinterGenerateGroupPolicy
+PrinterProcessGroupPolicy
+PrinterProcessGroupPolicyEx

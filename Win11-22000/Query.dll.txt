@@ -1,0 +1,10 @@
+BindIFilterFromStorage
+BindIFilterFromStream
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+LoadBinaryFilter
+LoadIFilter
+LoadIFilterEx
+LoadTextFilter

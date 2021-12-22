@@ -1,0 +1,7 @@
+WpbcCleanup
+WpbcCreateRemoveTestCredentials
+WpbcCreateTestPin
+WpbcExportCredentials
+WpbcGetPinInfo
+WpbcInitialize
+WpbcVerifyUser

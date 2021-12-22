@@ -1,0 +1,3 @@
+DllRegisterServer
+DllUnregisterServer
+ProcessHVSIPolicy

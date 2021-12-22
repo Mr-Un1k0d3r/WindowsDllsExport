@@ -1,0 +1,3 @@
+DllMain
+EnhancedStoragePasswordConfig
+EnhancedStoragePasswordInitDisk

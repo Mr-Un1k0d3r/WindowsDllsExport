@@ -1,0 +1,11 @@
+DoesCallHistoryItemMatchFilter
+StringToUdmObjectId
+UdmAreCallEventsEqual
+UdmCancelAsyncTask
+UdmCreateDataSession
+UdmCreateDataSessionForUser
+UdmCreateSyncCallbackHandler
+UdmDebugModifyNotifyState
+UdmFreeCallFavoriteItemSet
+UdmFreeCallHistoryItemSet
+UdmObjectIdToString

@@ -1,0 +1,5 @@
+Close
+Collect
+DllRegisterServer
+DllUnregisterServer
+Open

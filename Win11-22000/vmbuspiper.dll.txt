@@ -1,0 +1,7 @@
+VmbusPipeClientEnumeratePipes
+VmbusPipeClientOpenChannel
+VmbusPipeClientOpenChannelEx
+VmbusPipeClientWaitChannel
+VmbusPipeServerConnectPipe
+VmbusPipeServerOfferChannel
+VmbusPipeServerOfferChannelEx

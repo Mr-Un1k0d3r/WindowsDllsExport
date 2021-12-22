@@ -1,0 +1,5 @@
+CleanUpIpPriority
+ComputeRouteMetric
+ComputeRouteMetricEx
+GetPriorityInfo
+SetPriorityInfo

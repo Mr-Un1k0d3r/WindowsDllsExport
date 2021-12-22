@@ -1,0 +1,5 @@
+NgcLocalAddCredential
+NgcLocalAddCredentialSilent
+NgcLocalChangeCredential
+NgcLocalFindCredential
+NgcLocalRemoveCredential

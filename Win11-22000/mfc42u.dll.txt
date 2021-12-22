@@ -1,0 +1,8 @@
+?AfxFreeLibrary@@YAHPEAUHINSTANCE__@@@Z
+?AfxLoadLibrary@@YAPEAUHINSTANCE__@@PEBG@Z
+?AfxLockGlobals@@YAXH@Z
+?AfxUnlockGlobals@@YAXH@Z
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

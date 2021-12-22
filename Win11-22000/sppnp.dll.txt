@@ -1,0 +1,6 @@
+Sysprep_Generalize_Pnp
+Sysprep_Generalize_Pnp_Drivers
+Sysprep_Respecialize_Pnp
+Sysprep_RunDll_PnpW
+Sysprep_Specialize_Offline_Pnp
+Sysprep_Specialize_Pnp

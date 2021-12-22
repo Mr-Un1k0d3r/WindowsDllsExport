@@ -1,0 +1,10 @@
+ClosePrintProcessor
+ControlPrintProcessor
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+EnumPrintProcessorDatatypesW
+GetPrintProcessorCapabilities
+OpenPrintProcessor
+PrintDocumentOnPrintProcessor

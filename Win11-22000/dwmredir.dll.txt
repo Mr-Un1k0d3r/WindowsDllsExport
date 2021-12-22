@@ -1,0 +1,3 @@
+DwmInitializePort
+DwmRedirectionManagerInitialize
+DwmRedirectionManagerShutdown

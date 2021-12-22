@@ -1,0 +1,5 @@
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+GetPlatformSpecificLockScreenAppLauncher
+IsLockScreenActive

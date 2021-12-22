@@ -1,0 +1,5 @@
+OrtGetApiBase
+OrtGetWinMLAdapter
+OrtSessionOptionsAppendExecutionProviderEx_DML
+OrtSessionOptionsAppendExecutionProvider_CPU
+OrtSessionOptionsAppendExecutionProvider_DML

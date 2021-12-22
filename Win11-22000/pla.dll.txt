@@ -1,0 +1,15 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+PlaDeleteReport
+PlaExpandTaskArguments
+PlaExtractCabinet
+PlaGetLegacyAlertActionsFlagsFromString
+PlaGetLegacyAlertActionsStringFromFlags
+PlaGetServerCapabilities
+PlaHost
+PlaServer
+PlaUpgrade
+ServiceMain
+SvchostPushServiceGlobals

@@ -1,0 +1,12 @@
+NPAddConnection
+NPAddConnection3
+NPCancelConnection
+NPCloseEnum
+NPEnumResource
+NPGetCaps
+NPGetConnection
+NPGetConnectionPerformance
+NPGetResourceInformation
+NPGetResourceParent
+NPGetUniversalName
+NPOpenEnum

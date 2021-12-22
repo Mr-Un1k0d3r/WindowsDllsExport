@@ -1,0 +1,4 @@
+WppAutoLogGetDefaultHandle
+WppAutoLogStart
+WppAutoLogStop
+WppAutoLogTrace

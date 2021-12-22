@@ -1,0 +1,7 @@
+CryptProtectDataNoUI
+CryptProtectMemory
+CryptResetMachineCredentials
+CryptUnprotectDataNoUI
+CryptUnprotectMemory
+CryptUpdateProtectedState
+iCryptIdentifyProtection

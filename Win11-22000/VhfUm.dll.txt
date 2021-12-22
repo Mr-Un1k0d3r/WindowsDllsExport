@@ -1,0 +1,5 @@
+VhfAsyncOperationComplete
+VhfCreate
+VhfDelete
+VhfReadReportSubmit
+VhfStart

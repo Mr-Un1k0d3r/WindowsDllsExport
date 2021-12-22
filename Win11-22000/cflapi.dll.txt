@@ -1,0 +1,12 @@
+CflClearScenarioData
+CflClearTempUserAccount
+CflDeserializeSessionContext
+CflFreeBuffer
+CflGetScenarioData
+CflGetTransitionScenarioData
+CflSecureFreeBuffer
+CflSerializeSessionContext
+CflSetScenarioData
+CflSetupAuthEnvironment
+CflSetupTempUserAccount
+CflSetupTransitionToUserAccount

@@ -1,0 +1,15 @@
+CdfPluginRegisterDevice
+CdfPluginUnregisterDevice
+CdfPluginUpdatePresenceState
+NaDeviceUnlockStart
+NaDeviceUnlockStop
+NaDynamicLockForceEvaluate
+NaDynamicLockShouldIgnoreDisplayRequestActivity
+NaDynamicLockShouldIgnoreUserActivity
+NaDynamicLockShouldSkipGracePeriod
+NaDynamicLockStart
+NaDynamicLockStop
+NaRuleQuery
+NaRuleRegister
+NaRuleUnregister
+NaRuleValidate

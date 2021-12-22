@@ -1,0 +1,11 @@
+DllCanUnloadNow
+DllGetClassObject
+ShaderCache_AddValue
+ShaderCache_Clear
+ShaderCache_Create
+ShaderCache_Delete
+ShaderCache_Destroy
+ShaderCache_FindValue
+ShaderCache_Flush
+ShaderCache_FreeValue
+ShaderCache_GetDesc

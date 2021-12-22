@@ -1,0 +1,15 @@
+DllMain
+FaxComposeFreeBuffer
+HrAddressBookPreTranslateAccelerator
+HrDeInitAddressBook
+HrDeinitComposeFormDll
+HrFaxComposePreTranslateAccelerator
+HrFreeDraftsListViewInfo
+HrGetDraftsListViewInfo
+HrInitAddressBook
+HrInitComposeFormDll
+HrInvokeAddressBook
+HrNewFaxComposeUI
+HrNewFaxComposeUIFromFile
+HrNewTiffViewUIFromFile
+HrSelectEmailRecipient

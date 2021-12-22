@@ -1,0 +1,13 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+SppFreeBadWritersArray
+SppFreeClientPropArray
+SppFreeExternalGroupPropArray
+SppFreeGroupPropArray
+SppFreeMetadataProp
+SxTracerDebuggerBreak
+SxTracerGetThreadContextDebug
+SxTracerGetThreadContextRetail
+SxTracerShouldTrackFailure

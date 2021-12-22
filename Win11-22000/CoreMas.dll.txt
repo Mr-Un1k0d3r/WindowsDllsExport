@@ -1,0 +1,12 @@
+CreateUnimicFilter
+CreateUnimicProcessor
+DeleteUnimicFilter
+DeleteUnimicProcessor
+GetUnimicFilterInputPortCount
+GetUnimicFilterOutputPort
+GetUnimicFilterOutputPortCount
+GetUnimicProcessorDelay
+GetUnimicProcessorInputChannelCount
+GetUnimicProcessorOutputChannelCount
+RunUnimicProcessor
+SetUnimicFilterInputPort

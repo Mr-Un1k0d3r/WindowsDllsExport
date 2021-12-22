@@ -1,0 +1,8 @@
+CryptUIWizBuildCTL
+CryptUIWizDigitalSign
+CryptUIWizExport
+CryptUIWizFreeDigitalSignContext
+CryptUIWizImport
+CryptUIWizImportInternal
+DllMain
+GetFunctionTable

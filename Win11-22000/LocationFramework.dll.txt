@@ -1,0 +1,14 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+LocationObjectManagerInstance
+LocationServiceHostShutdown
+LocationServiceHostStartup
+RegisterLocationCOMServer
+SvcLocationAddRef
+SvcLocationInitServerLock
+SvcLocationReleaseRef
+SvcOnConsoleSessionNotification
+SvcOnUserLogOnStateNotification
+UnregisterLocationCOMServer

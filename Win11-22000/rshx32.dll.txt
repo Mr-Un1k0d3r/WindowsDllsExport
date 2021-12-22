@@ -1,0 +1,5 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+EditFSSecurity

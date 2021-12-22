@@ -1,0 +1,7 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetUnusedLanguageFeatures
+RequestFeaturesInstallation
+RequestFeaturesUninstallation

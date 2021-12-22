@@ -1,0 +1,3 @@
+DllCanUnloadNow
+DllGetClassObject
+RouteTheCall

@@ -1,0 +1,5 @@
+SssBindServicingStack
+SssGetServicingStackFilePath
+SssGetServicingStackFilePathLength
+SssPreloadDownlevelDependencies
+SssReleaseServicingStack

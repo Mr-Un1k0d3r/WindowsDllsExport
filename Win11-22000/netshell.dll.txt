@@ -1,0 +1,13 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+HrCreateDesktopIcon
+HrGetIconFromMediaType
+HrGetIconFromMediaTypeEx
+HrLaunchConnection
+HrLaunchConnectionEx
+HrRenameConnection
+NcFreeNetconProperties
+NcIsValidConnectionName
+StartNCW

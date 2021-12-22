@@ -1,0 +1,10 @@
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+WslConfigureDistribution
+WslGetDistributionConfiguration
+WslIsDistributionRegistered
+WslLaunch
+WslLaunchInteractive
+WslRegisterDistribution
+WslUnregisterDistribution

@@ -1,0 +1,9 @@
+DllCanUnloadNow
+DllGetClassObject
+MTF_Close
+MTF_Deinit
+MTF_GetServer
+MTF_IOControl
+MTF_Init
+MTF_Open
+MTF_SetPrivateMode

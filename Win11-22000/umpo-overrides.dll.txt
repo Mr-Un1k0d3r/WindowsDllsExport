@@ -1,0 +1,3 @@
+UmpoDisablePowerSettingOverrideUpdates
+UmpoEnablePowerSettingOverrideUpdates
+UmpoGetPowerSettingOverrides

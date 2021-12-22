@@ -1,0 +1,8 @@
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+GetCtacPropertyAlloc
+ModifyStagingControlVariants
+ModifyStagingControls
+SubscribeFeatureReporting
+UnsubscribeFeatureReporting

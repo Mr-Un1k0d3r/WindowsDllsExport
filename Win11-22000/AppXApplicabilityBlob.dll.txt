@@ -1,0 +1,7 @@
+CreateSerializedBundleManifestStatement
+GetApplicabilityFactory
+IsAppx
+IsModernApp
+IsPreThresholdDesktop
+IsPreThresholdPhone
+IsXAP

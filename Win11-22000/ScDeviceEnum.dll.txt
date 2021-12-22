@@ -1,0 +1,2 @@
+ScDeviceEnumServiceMain
+SvchostPushServiceGlobals

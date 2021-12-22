@@ -1,0 +1,10 @@
+CreateCatalog
+CreateSearchBindCtx
+CreateVirtualItem
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+FreeCatalog
+GetBackupPathFromPidl
+ParsePIDL

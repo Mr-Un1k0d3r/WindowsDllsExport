@@ -1,0 +1,14 @@
+QDLHPathDiagnostics
+QDLHStartDiagnosingPath
+QOSAddSocketToFlow
+QOSCancel
+QOSCloseHandle
+QOSCreateHandle
+QOSEnumerateFlows
+QOSNotifyFlow
+QOSQueryFlow
+QOSRemoveSocketFromFlow
+QOSSetFlow
+QOSStartTrackingClient
+QOSStopTrackingClient
+ServiceMain

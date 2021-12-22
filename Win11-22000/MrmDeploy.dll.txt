@@ -1,0 +1,9 @@
+DllMain
+GetCanonicalMergedPriFileName
+GetCanonicalMergedPriFileNameForPackages
+GetInitInfoByPackageFullName
+GetOrCreatePriFileForApplicablePackages
+GetOrCreatePriFileForAvailablePackages
+GetOrCreatePriFileForRelatedPackages
+GetPriFileForPackageOnly
+MergeRelatedPriFiles

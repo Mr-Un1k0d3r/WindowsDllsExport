@@ -1,0 +1,3 @@
+CreatePlan9FileSystem
+DllCanUnloadNow
+DllGetClassObject

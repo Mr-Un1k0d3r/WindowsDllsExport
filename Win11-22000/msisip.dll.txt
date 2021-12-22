@@ -1,0 +1,8 @@
+DllRegisterServer
+DllUnregisterServer
+MsiSIPCreateIndirectData
+MsiSIPGetSignedDataMsg
+MsiSIPIsMyTypeOfFile
+MsiSIPPutSignedDataMsg
+MsiSIPRemoveSignedDataMsg
+MsiSIPVerifyIndirectData

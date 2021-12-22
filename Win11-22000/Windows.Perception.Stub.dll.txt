@@ -1,0 +1,5 @@
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetActivationFactoryPerceptionStub
+DllGetClassObject
+GetProxyDllInfo

@@ -1,0 +1,5 @@
+DisableThreadLibraryCalls
+InjectThread
+ParametersBlock
+StubDllEntry
+ntdllLdrInitializeThunk

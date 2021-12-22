@@ -1,0 +1,9 @@
+CancelScanJob
+CloseScanner
+FreeScannerCapabilities
+GetScanJobState
+GetScannerCapabilities
+GetScannerStatus
+OpenScanner
+OpenUsbScanner
+StartScanJob

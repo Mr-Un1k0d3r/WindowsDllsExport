@@ -1,0 +1,11 @@
+AttestationAttest
+AttestationCloseSession
+AttestationCreateSession
+AttestationGetReport
+InitializeAttestationLibrary
+__AllocateMemory
+__AllocateParams
+__FreeMemory
+__GetHostMetadata
+__GetTcgLog
+__TraceLog

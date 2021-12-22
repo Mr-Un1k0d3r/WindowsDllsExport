@@ -1,0 +1,8 @@
+DOProcessGroupPolicy
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer
+GetProviderClassID
+MI_Main

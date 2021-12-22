@@ -1,0 +1,9 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+MFWMDRMOutputTrustAuthority_CreateInstance
+WMDRMCreateProvider
+WMDRMShutdown
+WMDRMStartup
+_WMDRMCreateProvider

@@ -1,0 +1,5 @@
+ActivateAudioInterfaceAsync
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

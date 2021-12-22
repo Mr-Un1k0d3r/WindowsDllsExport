@@ -1,0 +1,7 @@
+IsFileSupportedByWDAG
+IsFileTrusted
+IsFileTrustedEx
+IsWDAGEnabledForApps
+IsWDAGEnabledForEdge
+IsWDAGEnabledForOffice
+SetFileTrustStatus

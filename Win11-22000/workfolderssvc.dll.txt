@@ -1,0 +1,4 @@
+ClientInitEcsLib
+ClientUnInitEcsLib
+DllCanUnloadNow
+ServiceMain

@@ -1,0 +1,11 @@
+AppIDConstructAppxAttributes
+AppIDDecodeAttributeString
+AppIDEncodeAttributeString
+AppIDFreeAttributeString
+AppIDGetAppxFileAttributes
+AppIDGetFileAttributes
+AppIDGetMsiVersionInfo
+AppIDReleaseAppxFileAttributes
+AppIDReleaseFileAttributes
+CompareToSystemCIPolicy
+UpdateSystemCIPolicy

@@ -1,0 +1,9 @@
+CheckForVersionConflict
+CheckTrust
+CheckTrustEx
+DllCanUnloadNow
+DllGetClassObject
+DownloadFile
+GetICifFileFromFile
+GetICifRWFileFromFile
+PurgeDownloadDirectory

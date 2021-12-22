@@ -1,0 +1,4 @@
+DllMain
+FaxMonitorShutdown
+FaxMonitorStartup
+IsFaxMessage

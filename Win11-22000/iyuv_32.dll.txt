@@ -1,0 +1,4 @@
+AboutDialogProc
+DllMain
+DriverDialogProc
+DriverProc

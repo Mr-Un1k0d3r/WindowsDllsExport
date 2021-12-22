@@ -1,0 +1,5 @@
+CheckCompileOptions
+CheckLinkOptions
+Compile
+GetKernelArgInfo
+Link

@@ -1,0 +1,2 @@
+Sysprep_Clean_WMP
+Sysprep_Generalize_WMP

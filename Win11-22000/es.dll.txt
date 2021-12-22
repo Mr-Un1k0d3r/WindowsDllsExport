@@ -1,0 +1,7 @@
+DllCanUnloadNow
+DllGetClassObject
+LCEControlServer
+NotifyLogoffUser
+NotifyLogonUser
+ServiceMain
+SvchostPushServiceGlobals

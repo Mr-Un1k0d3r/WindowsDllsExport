@@ -1,0 +1,7 @@
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer
+SetSocketMediaStreamingMode

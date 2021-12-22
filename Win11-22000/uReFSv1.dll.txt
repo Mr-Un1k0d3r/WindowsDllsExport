@@ -1,0 +1,13 @@
+??0REFS_SA@@QEAA@XZ
+??0REFS_UPCASE_TABLE@@QEAA@XZ
+??1REFS_SA@@UEAA@XZ
+??1REFS_UPCASE_TABLE@@UEAA@XZ
+?Initialize@REFS_SA@@QEAAEPEAVLOG_IO_DP_DRIVE@@PEAVMESSAGE@@@Z
+Chkdsk
+ChkdskEx
+Extend
+Format
+FormatEx
+GetFilesystemInformation
+Recover
+SetOriginalVolumeName

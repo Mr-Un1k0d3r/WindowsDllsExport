@@ -1,0 +1,3 @@
+ActionCenterRunDllW
+DllCanUnloadNow
+DllGetClassObject

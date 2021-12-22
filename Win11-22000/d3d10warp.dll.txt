@@ -1,0 +1,9 @@
+D3D11RefGetLastCreation
+D3DLayerGetInterface
+OpenAdapter
+OpenAdapter10_2
+OpenAdapter12
+OpenDisplayAdapter1
+QueryDListForApplication1
+QueryDListForApplication2
+VSD3DDebugConnectionBuffer

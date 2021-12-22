@@ -1,0 +1,3 @@
+GetPrivateDDITable
+OpenAdapter
+SetAppCompatData

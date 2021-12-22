@@ -1,0 +1,6 @@
+CreateRegistryCompatibilityCollector
+CreateRegistryCompatibilityCollectorForUserOrSystemRegister
+CreateRegistryCompatibilityManager
+LoadCategoryNameTable
+LoadExtensionRegistrationTable
+ShellRefresh

@@ -1,0 +1,5 @@
+CreateInternetMailSyncServiceLayer
+DllCanUnloadNow
+DllGetClassObject
+GetAutoConfigManager
+OneStopFactory

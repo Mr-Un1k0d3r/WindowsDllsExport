@@ -1,0 +1,6 @@
+ClearSettingGroupValue
+ClearSettingValue
+GetSettingGroupValue
+GetSettingValue
+SetSettingGroupValue
+SetSettingValue

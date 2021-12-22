@@ -1,0 +1,17 @@
+AddDevice
+ClassInstall
+CoinstallerEntry
+CreateWiaDeviceList
+DestroyWiaDeviceList
+DisableWiaDevice
+EnableWiaDevice
+GetWiaDeviceProperty
+InstallWiaDevice
+InstallWiaService
+SetWiaDeviceProperty
+UninstallWiaDevice
+WiaAddDevice
+WiaCreatePortList
+WiaDestroyPortList
+WiaDeviceEnum
+WiaRemoveDevice

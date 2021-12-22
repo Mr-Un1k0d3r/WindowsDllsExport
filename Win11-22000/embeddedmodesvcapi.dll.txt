@@ -1,0 +1,5 @@
+ActivatePackage
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+IsEmbeddedModeAllowed

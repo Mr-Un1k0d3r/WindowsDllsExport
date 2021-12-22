@@ -1,0 +1,8 @@
+PushRouter_Close
+PushRouter_FreeGetMessageEventName
+PushRouter_FreeMessage
+PushRouter_FreeMessageEx
+PushRouter_GetMessage
+PushRouter_GetMessageEx
+PushRouter_Open
+PushRouter_SubmitPush

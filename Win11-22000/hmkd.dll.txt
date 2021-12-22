@@ -1,0 +1,4 @@
+HMKDCreateHmacKey
+HMKDDeriveKey
+HMKDGetHmacStatus
+HMKDImportHmacKey

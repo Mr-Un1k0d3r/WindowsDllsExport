@@ -1,0 +1,8 @@
+?GetSurface@CVIDEOfilter@@QEAAJHPEAEJ@Z
+?GetSurfaceSize@CVIDEOfilter@@QEAAJHPEAJ@Z
+?LoadSurface@CVIDEOfilter@@QEAAJHPEAEK@Z
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetH264DecoderFunctionTable

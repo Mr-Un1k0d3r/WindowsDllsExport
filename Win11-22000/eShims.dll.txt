@@ -1,0 +1,11 @@
+IEShims_CreateFileW
+IEShims_FindClose
+IEShims_FindFirstFileW
+IEShims_GetFileAttributesExW
+IEShims_GetFileAttributesW
+IEShims_GetFullPathNameW
+IEShims_GetLongPathNameW
+IEShims_Initialize
+IEShims_Uninitialize
+IEShims_WNetGetConnectionW
+RegisterFlashShimHandler

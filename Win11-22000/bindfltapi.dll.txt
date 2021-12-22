@@ -1,0 +1,11 @@
+BfAttachFilter
+BfConfigureFilter
+BfGenerateBatchedConfig
+BfGenerateMappingConfiguration
+BfGetMappings
+BfRemoveMapping
+BfRemoveMappingEx
+BfSetupFilter
+BfSetupFilterBatched
+BfSetupFilterEx
+BfTrackWritesFromSilo

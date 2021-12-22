@@ -1,0 +1,5 @@
+ConfigureUserArso
+EnableDisableElevationForSessionWorker
+NotifyInteractiveSessionLogoff
+UpdateUserTokenSessionId
+WinLogonExt

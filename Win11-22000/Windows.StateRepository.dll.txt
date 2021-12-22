@@ -1,0 +1,7 @@
+ServiceMain
+StateRepository_DataAccessLayer_DatabaseCache_Add
+StateRepository_DataAccessLayer_DatabaseCache_Get
+StateRepository_Initialize
+StateRepository_Service_UpdateStatus
+StateRepository_Shutdown
+SvchostPushServiceGlobals

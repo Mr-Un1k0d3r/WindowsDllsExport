@@ -1,0 +1,6 @@
+DllCanUnloadNow
+DllGetClassObject
+MFCreateHDCPStatus
+MFCreateMediaEngineVideoOTA
+MFCreateOPMHelper
+MFCreateTimedTextRenderer

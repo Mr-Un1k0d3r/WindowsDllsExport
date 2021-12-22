@@ -1,0 +1,17 @@
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+UirFreeRecordedActionInfo
+UirGetRecordedActionInfo
+UirGetScreenComment
+UirInitializeEngine
+UirIsRecordingActive
+UirOutCreateOutputFile
+UirPauseRecordingSession
+UirResumeRecordingSession
+UirStartRecordingSession
+UirStopRecordingSession
+UirUninitializeEngine
+UirUpdateRecordingSession
+UirWriteRecordedActionListMht
+UirWriteRecordedActionListXml

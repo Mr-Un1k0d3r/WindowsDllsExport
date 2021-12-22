@@ -1,0 +1,7 @@
+EapProvPlugGetInfo
+EapProvPluginDeinitialize
+EapProvPluginInitialize
+EapProvPluginTestForAuthenticatingWlanInterfaces
+EapProvPluginWlanCloseHandle
+EapProvPluginWlanOpenHandle
+EapProvPluginWlanRegisterNotification

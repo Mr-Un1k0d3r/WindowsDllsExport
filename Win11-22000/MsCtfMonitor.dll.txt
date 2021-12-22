@@ -1,0 +1,7 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+DoMsCtfMonitor
+InitLocalMsCtfMonitor
+UninitLocalMsCtfMonitor

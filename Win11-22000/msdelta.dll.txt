@@ -1,0 +1,16 @@
+ApplyDeltaA
+ApplyDeltaB
+ApplyDeltaGetReverseB
+ApplyDeltaProvidedB
+ApplyDeltaW
+CreateDeltaA
+CreateDeltaB
+CreateDeltaW
+DeltaFree
+DeltaNormalizeProvidedB
+GetDeltaInfoA
+GetDeltaInfoB
+GetDeltaInfoW
+GetDeltaSignatureA
+GetDeltaSignatureB
+GetDeltaSignatureW

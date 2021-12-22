@@ -1,0 +1,4 @@
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+GetSetting

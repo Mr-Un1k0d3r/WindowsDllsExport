@@ -1,0 +1,4 @@
+DabApiBufferFree
+DabGetLastScheduledRunTime
+DabRegisterTriggerConsumer
+DabUnregisterTriggerConsumer

@@ -1,0 +1,4 @@
+ConfigurationManager_Create
+ConfigurationManager_GetLocaleMapConfiguration
+ConfigurationManager_SetCustomStorageFolder
+ConfigurationManager_SetServiceCallbacks

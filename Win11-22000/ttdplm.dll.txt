@@ -1,0 +1,5 @@
+CreateModernAppToDelete
+CreateModernAppToTrace
+GetMaxPackageNameLength
+GetPackageFromPid
+SetPermisionsForFolder

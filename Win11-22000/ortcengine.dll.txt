@@ -1,0 +1,3 @@
+RtcOrtcAlloc
+RtcOrtcFree
+RtcOrtcGetBrokerFactory

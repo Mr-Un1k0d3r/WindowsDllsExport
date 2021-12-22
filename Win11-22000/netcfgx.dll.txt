@@ -1,0 +1,11 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+LanaCfgFromCommandArgs
+NetCfgDiagFromCommandArgs
+NetCfgDiagRepairRegistryBindings
+NetClassInstaller
+NetPropPageProvider
+OnMachineUILanguageInit
+OnMachineUILanguageSwitch

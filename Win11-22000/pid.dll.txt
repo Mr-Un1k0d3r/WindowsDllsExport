@@ -1,0 +1,4 @@
+DllCanUnloadNow
+DllGetClassObject
+PID_GetFFEffectSettingsFromMemory
+PID_WriteFFEffectSettingsToMemory

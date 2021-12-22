@@ -1,0 +1,4 @@
+DllRegisterServer
+DllUnregisterServer
+NSPCleanup
+NSPStartup

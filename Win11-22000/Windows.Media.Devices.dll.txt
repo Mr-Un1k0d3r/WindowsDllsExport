@@ -1,0 +1,9 @@
+Create_SpatialAudioConfigureDevice
+Create_SpatialAudioDevicePropertyReader
+Create_SpatialAudioDeviceStateReader
+Create_SpatialAudioEncoderProperties
+Create_SpatialAudioPositionCalc
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+GetSpatialSettingsMonitoringPKey

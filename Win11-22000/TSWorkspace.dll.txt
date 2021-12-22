@@ -1,0 +1,15 @@
+CreateClaimsAuthResponseHeader
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+RADCProcessGroupPolicyEx
+RADCUISupportCreateDiscoveryStrategy
+RADCUISupportCreateSubscriptionClient
+TaskUpdateWorkspaces
+TaskUpdateWorkspaces2
+TaskUpdateWorkspacesIfNeeded
+TryParseClaimsAuthnHeader
+WorkspaceSilentSetupW
+WorkspaceStatusNotify
+WorkspaceStatusNotify2

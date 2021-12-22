@@ -1,0 +1,9 @@
+CalculateCensusId
+DoCensusRun
+EnumerateOfficeAddins
+EnumerateOfficeDocuments
+GetCITDataApr
+GetCITTelemetryPoints
+RunGeneralTelemetry
+RunInUserCxtW
+SysprepCleanupEnableCustomTrigger

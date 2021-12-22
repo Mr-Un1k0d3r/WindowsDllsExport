@@ -1,0 +1,13 @@
+??0CCritSec@@QEAA@XZ
+??0MIServer@@QEAA@XZ
+??1CCritSec@@QEAA@XZ
+??4CAutoSetActivityId@@QEAAAEAV0@AEBV0@@Z
+??4CCritSec@@QEAAAEAV0@AEBV0@@Z
+??4MIServer@@QEAAAEAV0@$$QEAV0@@Z
+??4MIServer@@QEAAAEAV0@AEBV0@@Z
+?SetAdapter@AdapterContextBase@@QEAAJPEAUIUnknown@@@Z
+Adapter_CreateAdapterObject
+Adapter_DllCanUnloadNow
+Adapter_DllGetClassObject
+Adapter_RegisterDLL
+Adapter_UnRegisterDLL

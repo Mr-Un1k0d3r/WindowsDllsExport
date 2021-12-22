@@ -1,0 +1,7 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+MFCreateNetVRoot
+MFCreateWMPMDEOpCenter
+MFCreateWinMDEOpCenter

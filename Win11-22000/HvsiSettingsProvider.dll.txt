@@ -1,0 +1,10 @@
+??0HvsiSettingsProvider@@QEAA@XZ
+??1HvsiSettingsProvider@@UEAA@XZ
+ApplySubProviderSettings
+CreateSettingsProvider
+GatherSubProviderSettings
+GetSubProviderAttribute
+RegisterChangeNotifications
+SetDVCCallbackInformation
+UnregisterChangeNotifications
+VirtualChannelGetInstance

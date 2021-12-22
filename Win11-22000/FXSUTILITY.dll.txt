@@ -1,0 +1,7 @@
+CanSendToFaxRecipient
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetProxyDllInfo
+SendToFaxRecipient

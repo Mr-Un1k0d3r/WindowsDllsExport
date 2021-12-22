@@ -1,0 +1,11 @@
+DllMain
+NcaEngineClose
+NcaEngineOpen
+NcaExecuteAndCaptureLogs
+NcaGetConfig
+NcaGetEvidenceCollectorResult
+NcaNetworkClose
+NcaNetworkOpen
+NcaStatusEventSubscribe
+NcaStatusEventUnsubscribe
+NcaToggleNamePreferenceState

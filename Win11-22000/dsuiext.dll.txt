@@ -1,0 +1,9 @@
+DllCanUnloadNow
+DllGetClassObject
+DllInstall
+DllRegisterServer
+DllUnregisterServer
+DsBrowseForContainerA
+DsBrowseForContainerW
+DsGetFriendlyClassName
+DsGetIcon

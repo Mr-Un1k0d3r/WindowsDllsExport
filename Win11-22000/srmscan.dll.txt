@@ -1,0 +1,10 @@
+DllCanUnloadNow
+DllGetClassObject
+SrmCalculateCrcHash
+SrmCreateOrDeleteNotificationScheduledTask
+SrmEnsureSystemVolumeInformationFolder
+SrmIsInCluster
+SrmIsNameInExpression
+SrmLocalFileTimeToUtcFileTime
+SrmUtcFileTimeToLocalFileTime
+SrmValidateNamespaceRoots

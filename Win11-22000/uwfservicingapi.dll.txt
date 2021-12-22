@@ -1,0 +1,7 @@
+GetServicingModeState
+SetServicingModeState
+UwfServicingCleanup
+UwfServicingInitialize
+UwfServicingWinUpdateApply
+UwfServicingWinupdateCleanup
+UwfServicingWinupdateInitialize

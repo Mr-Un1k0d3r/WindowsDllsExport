@@ -1,0 +1,9 @@
+DisableNTPSync
+FreeTimeStatusInfo
+GetTimeStatusInfo
+GetW32timeParameterSz
+IsNTPSyncEnabled
+ReadLastKnownGoodTimeFromRegistry
+SetNTPSync
+StartTimeService
+SyncW32Time

@@ -1,0 +1,4 @@
+CmLockSvcDeinit
+CmLockSvcInit
+DllCanUnloadNow
+DllGetClassObject

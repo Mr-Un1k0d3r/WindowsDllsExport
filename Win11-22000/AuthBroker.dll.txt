@@ -1,0 +1,11 @@
+AuthBrokerClearThreadClientContext
+AuthBrokerCreateClientContext
+AuthBrokerFreeClientContext
+AuthBrokerSetThreadClientContext
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+DllInstall
+DllRegisterServer
+FindCallingThreadImmersiveWindow
+PurgeAuthHostSsoCache

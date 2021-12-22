@@ -1,0 +1,17 @@
+MapsStore_CancelGetData
+MapsStore_CancelInstallation
+MapsStore_CheckUpdateAsync
+MapsStore_DeleteData
+MapsStore_FindNearbyPackages
+MapsStore_GetCopyright
+MapsStore_GetData
+MapsStore_GetGSCode
+MapsStore_Initialize
+MapsStore_InstallAsync
+MapsStore_IsMapFullyInstalled
+MapsStore_LoadCatalogAsync
+MapsStore_SetServiceCallbacks
+MapsStore_SuspendInstallation
+MapsStore_UnInitialize
+MapsStore_UpdateAsync
+MapsStore_WaitInstallation

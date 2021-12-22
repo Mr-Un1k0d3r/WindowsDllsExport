@@ -1,0 +1,12 @@
+VmusrvAddShare
+VmusrvCleanup
+VmusrvEnginePause
+VmusrvEngineRestore
+VmusrvEngineResume
+VmusrvEngineSave
+VmusrvEngineStop
+VmusrvInitialize
+VmusrvOpenFile
+VmusrvRemoveShare
+VmusrvSupportsPause
+VmusrvUpdateShareAllowedFileList

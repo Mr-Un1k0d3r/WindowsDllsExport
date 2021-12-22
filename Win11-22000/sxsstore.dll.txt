@@ -1,0 +1,4 @@
+DllGetClassObject
+DllMain
+SxsStoreFinalize
+SxsStoreInitialize

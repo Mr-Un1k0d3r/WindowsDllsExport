@@ -1,0 +1,8 @@
+IdpConfigAddPolicy
+IdpConfigAllocateAndGetPolicy
+IdpConfigFreePolicy
+IdpConfigInitDefaultPolicy
+IdpConfigRemovePolicy
+InitHelperDll
+WfpCaptureExportedW
+WfpCaptureStop

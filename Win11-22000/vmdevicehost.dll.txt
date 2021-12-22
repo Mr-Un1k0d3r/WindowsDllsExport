@@ -1,0 +1,16 @@
+HdvCreateDeviceInstance
+HdvCreateGuestMemoryAperture
+HdvCreateSectionBackedMmioRange
+HdvDeliverGuestInterrupt
+HdvDestroyGuestMemoryAperture
+HdvDestroySectionBackedMmioRange
+HdvInitializeDeviceHost
+HdvInitializeDeviceHostForProxy
+HdvProxyDeviceHost
+HdvReadGuestMemory
+HdvRegisterDoorbell
+HdvRegisterDoorbellPage
+HdvTeardownDeviceHost
+HdvUnregisterDoorbell
+HdvUnregisterDoorbellPage
+HdvWriteGuestMemory

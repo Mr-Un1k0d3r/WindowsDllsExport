@@ -1,0 +1,17 @@
+ClearPlatformTestingCallbacks
+DllGetClassObject
+DllMain
+GetAndInitializePlatformObject
+GetPlatformObject
+InitializePlatformLibrary
+PlatformSimulateUnhandledException
+PlatformUnhandledExceptionFilter
+SetPlatformErrorReportingCallbacks
+SetPlatformTestingCallbacks
+ShutdownPlatformLibrary
+WdfGetLpcInterface
+WudfDebugBreakPoint
+WudfIsAnyDebuggerPresent
+WudfIsKernelDebuggerPresent
+WudfIsUserDebuggerPresent
+WudfWaitForDebugger

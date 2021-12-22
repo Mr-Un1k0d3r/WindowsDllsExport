@@ -1,0 +1,15 @@
+FveAuthWithClearKey
+FveAuthWithKey
+FveAuthWithPassphraseW
+FveAuthWithPasswordW
+FveCreateRestoreContext
+FveDecryptData
+FveDestroyRestoreContext
+FveGetConvLogOffset
+FveGetInterruptedRangeOffset
+FveGetMetadataFromRestoreContext
+FveLoadConvLog
+FveRecoverBlock
+FveSupplyInformationBlock
+FveSupplyKeyPackage
+FveSupplyWatermark

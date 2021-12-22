@@ -1,0 +1,11 @@
+DllCanUnloadNow
+DllGetClassObject
+GNSAddNamespace
+GNSAttachNamespace
+GNSBeginAddInterface
+GNSCompleteAddInterface
+GNSDetachNamespace
+GNSModuleCleanup
+GNSModuleInit
+GNSRemoveInterface
+GNSRemoveNamespace

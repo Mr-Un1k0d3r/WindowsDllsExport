@@ -1,0 +1,11 @@
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer
+GetProviderClassID
+MI_Main
+MPEvalTrap
+NITS_PRESENCE_STUB
+NITS_STUB
+monitoring_platform_evaluatorFT_V1

@@ -1,0 +1,5 @@
+BthEvtBrCreateBroker
+BthEvtBrDeleteBroker
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

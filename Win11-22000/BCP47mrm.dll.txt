@@ -1,0 +1,17 @@
+Bcp47GetDistanceCString
+Bcp47GetNeutralFormCString
+Bcp47IsValid
+CompareBcp47Tags
+FormatLanguageList
+FormatLanguageTag
+GetApplicationLanguagesWithUserLanguagesFallback
+GetApplicationLayoutDirection
+GetClosenessOfUnIsoRegionTags
+GetCompositeRegionCode
+GetDistanceOfClosestLanguageInList
+GetLanguageDirectionality
+GetMrtDisplayLanguageList
+GetParentCompositeRegionCode
+IsValidTag
+IsValidUnIsoRegionTag
+IsWellFormedTag

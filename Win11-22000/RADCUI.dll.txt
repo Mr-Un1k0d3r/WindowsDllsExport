@@ -1,0 +1,4 @@
+DUIRemoveSubscriptionDialogModal
+DUISubscribeWizardModal
+DllCanUnloadNow
+DllGetClassObject

@@ -1,0 +1,4 @@
+DownlevelGetParentLocaleLCID
+DownlevelGetParentLocaleName
+DownlevelLCIDToLocaleName
+DownlevelLocaleNameToLCID

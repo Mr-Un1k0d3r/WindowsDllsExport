@@ -1,0 +1,7 @@
+CscNetApiGetInterface
+CscSearchApiGetInterface
+OfflineFilesEnable
+OfflineFilesGetShareCachingMode
+OfflineFilesQueryStatus
+OfflineFilesQueryStatusEx
+OfflineFilesStart

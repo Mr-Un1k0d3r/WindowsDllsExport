@@ -1,0 +1,11 @@
+AreDvdCodecsEnabled
+GetMediaComponentPackageInfo
+GetMediaComponentPackageInfoInternal
+GetMediaExtensionCommunicationFactory
+GetNetworkRequestCount
+GetServerForPMP
+InstantiateComponentFromPackage
+IsMediaBehaviorEnabled
+RegisterServerForPMP
+RequireNetworkDuringMediaTaskCompletion
+UnregisterServerForPMP

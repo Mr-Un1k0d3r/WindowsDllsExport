@@ -1,0 +1,14 @@
+TTCharToUnicode
+TTDeleteEmbeddedFont
+TTEmbedFont
+TTEmbedFontEx
+TTEmbedFontFromFileA
+TTEnableEmbeddingForFacename
+TTGetEmbeddedFontInfo
+TTGetEmbeddingType
+TTGetNewFontName
+TTIsEmbeddingEnabled
+TTIsEmbeddingEnabledForFacename
+TTLoadEmbeddedFont
+TTRunValidationTests
+TTRunValidationTestsEx

@@ -1,0 +1,7 @@
+L2GPPolicyDataDelete
+L2GPPolicyDataDeleteAll
+L2GPPolicyDataRead
+L2GPPolicyDataWrite
+L2GPPolicyFreeMem
+L2GPPolicyStoreClose
+L2GPPolicyStoreOpen

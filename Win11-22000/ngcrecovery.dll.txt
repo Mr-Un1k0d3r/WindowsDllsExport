@@ -1,0 +1,5 @@
+NgcIsPinRecoveryEnabled
+NgcProtectPinRecoverySecret
+NgcRecoverPin
+NgcRecoverPinSilent
+NgcVerifyPinRecoverySecret

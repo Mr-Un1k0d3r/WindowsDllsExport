@@ -1,0 +1,7 @@
+InitializeProtocolEngine
+SendMessageToProtocolEngine
+UninitializeProtocolEngine
+VpnBrokerPluginIsInstalled
+VpnBrokerRegisterForPluginInstallations
+VpnSmCommsPluginsNotifyLogOff
+VpnSmCommsPluginsRoamToBestCostInterface

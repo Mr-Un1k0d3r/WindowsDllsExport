@@ -1,0 +1,15 @@
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer
+VpnClientGetCostedNetworkSettings
+VpnClientGetProxyForUrlAndSingleSessionDeviceUser
+VpnClientPluginGetSecurity
+VpnClientPluginInstall
+VpnClientPluginManifestFind
+VpnClientPluginUninstall
+VpnClientSetCostedNetworkSettings
+VpnPluginEnumerate
+VpnPluginListFree

@@ -1,0 +1,12 @@
+EapPeerConfigBlob2Xml
+EapPeerConfigXml2Blob
+EapPeerCredentialsXml2Blob
+EapPeerFreeErrorMemory
+EapPeerFreeMemory
+EapPeerGetConfigBlobAndUserBlob
+EapPeerGetIdentityPageGuid
+EapPeerInvokeConfigUI
+EapPeerInvokeIdentityUI
+EapPeerInvokeInteractiveUI
+InternalFunction01
+InternalFunction02

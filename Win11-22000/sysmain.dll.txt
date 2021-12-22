@@ -1,0 +1,16 @@
+AgGlLoad
+AgPdLoad
+AgTwLoad
+CloseReadyBoostPerfData
+CollectReadyBoostPerfData
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetProviderClassID
+MI_Main
+OpenReadyBoostPerfData
+PfSvSysprepCleanup
+PfSvUnattendCallback
+PfSvWsSwapAssessmentTask
+SysMtServiceMain

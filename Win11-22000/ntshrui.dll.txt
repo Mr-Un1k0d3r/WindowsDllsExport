@@ -1,0 +1,15 @@
+CanShareFolder
+DllCanUnloadNow
+DllGetClassObject
+GetLocalPathFromNetResource
+GetLocalPathFromNetResourceA
+GetLocalPathFromNetResourceW
+GetNetResourceFromLocalPath
+GetNetResourceFromLocalPathA
+GetNetResourceFromLocalPathW
+IsFolderPrivateForUser
+IsPathShared
+IsPathSharedA
+IsPathSharedW
+SetFolderPermissionsForSharing
+ShowShareFolderUI

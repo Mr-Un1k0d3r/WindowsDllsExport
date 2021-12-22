@@ -1,0 +1,4 @@
+DllCanUnloadNow
+DllGetClassObject
+GetSetting
+NotifyDisplayHandler

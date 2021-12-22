@@ -1,0 +1,14 @@
+DllMain
+FhQueryConfiguredUsersCount
+FhServiceBlockBackup
+FhServiceClearProtectionState
+FhServiceClosePipe
+FhServiceEnterMaintenanceMode
+FhServiceExitMaintenanceMode
+FhServiceMigrationFinished
+FhServiceMigrationStarting
+FhServiceOpenPipe
+FhServiceReloadConfiguration
+FhServiceStartBackup
+FhServiceStopBackup
+FhServiceUnblockBackup

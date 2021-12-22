@@ -1,0 +1,7 @@
+IEApplyCurrentHardening
+IEHardenAdmin
+IEHardenAdminNow
+IEHardenLMSettings
+IEHardenMachineNow
+IEHardenUser
+IEShowHardeningDialog

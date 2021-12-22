@@ -1,0 +1,11 @@
+SE_DllLoaded
+SE_DllUnloaded
+SE_DynamicShim
+SE_GetHookAPIs
+SE_GetMaxShimCount
+SE_GetProcAddressIgnoreIncExc
+SE_GetShimCount
+SE_InstallAfterInit
+SE_InstallBeforeInit
+SE_IsShimDll
+SE_ProcessDying

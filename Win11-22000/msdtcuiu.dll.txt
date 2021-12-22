@@ -1,0 +1,7 @@
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+DtcPerfClose
+DtcPerfCollect
+DtcPerfOpen
+PerfDllRegisterServer

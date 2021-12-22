@@ -1,0 +1,3 @@
+CreateXpsToPwgrConverter
+DllCanUnloadNow
+DllGetClassObject

@@ -1,0 +1,11 @@
+AutoDialFunc
+CmCustomDialDlg
+CmCustomHangUp
+CmReConnect
+GetCustomProperty
+InetDialHandler
+RasCustomDeleteEntryNotify
+RasCustomDial
+RasCustomDialDlg
+RasCustomEntryDlg
+RasCustomHangUp

@@ -1,0 +1,7 @@
+ConvertMultiSzToSzA
+ConvertSzToMultiSzA
+GetLinkSpeedForAddress
+GetSstpDestinationInfo
+GetSstpGroupIDFromQueryString
+GetSstpUrlForDestination
+ValidateMultiSzA

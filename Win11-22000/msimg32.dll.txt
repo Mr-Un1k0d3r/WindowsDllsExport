@@ -1,0 +1,5 @@
+AlphaBlend
+DllInitialize
+GradientFill
+TransparentBlt
+vSetDdrawflag

@@ -1,0 +1,7 @@
+CreateAudioReverb
+CreateAudioVolumeMeter
+CreateFX
+X3DAudioCalculate
+X3DAudioInitialize
+XAudio2Create
+XAudio2CreateWithVersionInfo

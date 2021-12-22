@@ -1,0 +1,6 @@
+DSCreateISecurityInfoObject
+DSCreateISecurityInfoObjectEx
+DSCreateSecurityPage
+DSEditSecurity
+DllCanUnloadNow
+DllGetClassObject

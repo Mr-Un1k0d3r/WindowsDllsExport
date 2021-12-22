@@ -1,0 +1,3 @@
+GcoAddMessage
+GcoGetDesiredPosition
+GcoSetDesiredPosition

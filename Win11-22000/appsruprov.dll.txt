@@ -1,0 +1,8 @@
+DllMain
+LogMemoryPerfCounters
+LogMemoryPerfCountersPeriodically
+PsmQueryApplicationPerformanceInformation
+PsmQueryApplicationPerformanceInformation2
+PsmQueryQuotaInformation
+SruInitializeProvider
+SruUninitializeProvider

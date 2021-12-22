@@ -1,0 +1,7 @@
+AADTBAcquireToken
+AADTBAcquireTokenEx
+AADTBFreeString
+AADTBFreeStruct
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

@@ -1,0 +1,12 @@
+CreateDeploymentSession
+CreateDeploymentSessionEx
+CreateOfflineDeploymentSession
+UA_CommitActionList
+UA_CreateActionList
+UA_CreateActionList2
+UA_CreateDeviceInformation
+UA_CreateDownloadList
+UA_CreateDownloadListFromActionList
+UA_CreatePackageListFromDownloadList
+UA_InstallActionList
+UA_ReleaseDownloadList

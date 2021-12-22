@@ -1,0 +1,4 @@
+WFDProvConfigureAndProvisionDevice
+WFDProvDeinitialize
+WFDProvGetInfo
+WFDProvInitialize

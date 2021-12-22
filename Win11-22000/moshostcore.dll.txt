@@ -1,0 +1,1 @@
+MosHostCore_ServiceManagerInstance

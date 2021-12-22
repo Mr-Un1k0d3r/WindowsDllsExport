@@ -1,0 +1,5 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+RDPAPI_CreateInstance

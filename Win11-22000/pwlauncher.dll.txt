@@ -1,0 +1,8 @@
+DllCanUnloadNow
+DllGetClassObject
+DllInstall
+DllRegisterServer
+DllUnregisterServer
+ProcessHibernateGroupPolicy
+ProcessLauncherGroupPolicy
+ShowPortableWorkspaceLauncherConfigurationUX

@@ -1,0 +1,8 @@
+WIATRACE_DecrementIndentLevel
+WIATRACE_GetIndentLevel
+WIATRACE_GetTraceSettings
+WIATRACE_IncrementIndentLevel
+WIATRACE_Init
+WIATRACE_OutputString
+WIATRACE_SetTraceSettings
+WIATRACE_Term

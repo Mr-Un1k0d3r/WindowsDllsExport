@@ -1,0 +1,7 @@
+UsbPm_AssignConnectorPowerLevel
+UsbPm_Deregister
+UsbPm_Register
+UsbPm_RetrieveConnectorProperties
+UsbPm_RetrieveConnectorState
+UsbPm_RetrieveHubConnectorHandles
+UsbPm_RetrieveHubProperties

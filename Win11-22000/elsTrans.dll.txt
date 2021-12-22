@@ -1,0 +1,6 @@
+DoAction
+EnumServices
+FreePropertyBag
+FreeService
+InitService
+RecognizeText

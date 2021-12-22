@@ -1,0 +1,3 @@
+CreateParserObject
+DllCanUnloadNow
+DllGetClassObject

@@ -1,0 +1,8 @@
+??0MIFree@@QEAA@PEAX@Z
+??1MIFree@@QEAA@XZ
+??4MIServer@@QEAAAEAV0@$$QEAV0@@Z
+??4MIServer@@QEAAAEAV0@AEBV0@@Z
+CompileSchemaToWMI
+CreateRegisterParameter
+GetProviderSchema
+GetProviderSchemaFile

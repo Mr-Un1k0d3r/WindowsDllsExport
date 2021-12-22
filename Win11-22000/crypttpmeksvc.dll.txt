@@ -1,0 +1,8 @@
+CryptsvcDllCtrl
+EKCliAuthorityKeyGetInfo
+EKCliTpmEndorsementKeyDecryptSCEPChallenge
+EKCliTpmEndorsementKeyGetInfo
+EKCliTpmGetManufacturerInfo
+FreeCMCResponse
+IsCmcResponseForAttestation
+ParseCMCResponse

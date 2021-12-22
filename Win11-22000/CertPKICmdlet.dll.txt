@@ -1,0 +1,14 @@
+DllMain
+ExportCertificate
+ExportPFXCertificate
+FindCertificate
+FreeCertResults
+FreeResourceString
+GetCertificateFromEnrollmentInternal
+ImportCertificate
+ImportPFXCertificate
+IsSecureKernelRunning
+IsSmartCard
+LoadResourceString
+SuppressFreeCert
+SuppressFreeStore

@@ -1,0 +1,5 @@
+BamCreateSettingsClientLib
+BamDestroySettingsClientLib
+BamFreeQueriedApplications
+BamQueryKnownApplications
+BamSetUserManagementState

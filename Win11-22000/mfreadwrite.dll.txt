@@ -1,0 +1,7 @@
+DllCanUnloadNow
+DllGetClassObject
+MFCreateSinkWriterFromMediaSink
+MFCreateSinkWriterFromURL
+MFCreateSourceReaderFromByteStream
+MFCreateSourceReaderFromMediaSource
+MFCreateSourceReaderFromURL

@@ -1,0 +1,9 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+HideVAN
+RunVANW
+ShowVAN
+ShutdownVAN
+VanUIManager_CreateInstance

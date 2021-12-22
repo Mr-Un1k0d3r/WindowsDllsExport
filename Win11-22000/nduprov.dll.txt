@@ -1,0 +1,8 @@
+CommitStatsHelperCollectContainerData
+CommitStatsHelperDedupHostData
+DedupDoubleCountedData
+NduProvPopulateStatsFromRecord
+OverflowCheckOnBytesFromContainers
+PopulateUserName
+SruInitializeProvider
+SruUninitializeProvider

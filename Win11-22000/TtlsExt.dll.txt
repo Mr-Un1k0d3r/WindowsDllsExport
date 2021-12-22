@@ -1,0 +1,13 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+TtlsExt_EapPeerInvokeConfigUI
+TtlsExt_FreeMemoryExt
+TtlsExt_GetConfigCacheOnlyCertValidation
+TtlsExt_GetConfigForceNotDomainJoined
+TtlsExt_GetContextData
+TtlsExt_GetUserCredentials
+TtlsExt_InvokeNonEapMethodUI
+TtlsExt_InvokeServerAuthentication
+TtlsExt_ShowHelp

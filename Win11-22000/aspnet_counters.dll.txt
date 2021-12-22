@@ -1,0 +1,9 @@
+CloseGenericCounters
+CloseStateCounters
+CloseVersion4Counters
+CollectGenericCounters
+CollectStateCounters
+CollectVersion4Counters
+OpenGenericCounters
+OpenStateCounters
+OpenVersion4Counters

@@ -1,0 +1,6 @@
+CollectOneTraceFiles
+CreateLogCabOnArea
+CreateLogZipOnArea
+CreateLogZipOnXml
+CreateMdmEnterpriseDiagnosticHTMLReport
+CreateMdmEnterpriseDiagnosticReport

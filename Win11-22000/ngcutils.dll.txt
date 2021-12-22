@@ -1,0 +1,4 @@
+NgcCallerIsAppContainer
+NgcGetCallerAppContainerSid
+NgcGetCallerSid
+NgcIsConsumerUser

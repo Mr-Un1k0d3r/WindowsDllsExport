@@ -1,0 +1,8 @@
+GTPIN_IGC_GetCommandLine
+GTPIN_IGC_GetInvokeStruct
+GTPIN_IGC_Instrument
+GTPIN_IGC_IsEnabled
+GTPIN_IGC_MarkerForGTPin
+GTPIN_IGC_PrepareForGTPin
+GTPIN_IGC_SetEnabled
+OpenAdapter

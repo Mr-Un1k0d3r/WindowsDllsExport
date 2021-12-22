@@ -1,0 +1,6 @@
+WdfCoInstaller
+WdfPostDeviceInstall
+WdfPostDeviceRemove
+WdfPreDeviceInstall
+WdfPreDeviceInstallEx
+WdfPreDeviceRemove

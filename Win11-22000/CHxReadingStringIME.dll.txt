@@ -1,0 +1,2 @@
+GetReadingString
+ShowReadingWindow

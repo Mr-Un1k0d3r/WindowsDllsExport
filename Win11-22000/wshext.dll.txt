@@ -1,0 +1,10 @@
+CreateIndirectData
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetSignedDataMsg
+IsFileSupportedName
+PutSignedDataMsg
+RemoveSignedDataMsg
+VerifyIndirectData

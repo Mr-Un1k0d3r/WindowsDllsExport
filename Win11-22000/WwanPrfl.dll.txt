@@ -1,0 +1,12 @@
+WwanProfileCleanup
+WwanProfileCopyProfile
+WwanProfileDecryptPassword
+WwanProfileDeinit
+WwanProfileGenerateFile
+WwanProfileGenerateXml
+WwanProfileGetPath
+WwanProfileGetRootPath
+WwanProfileInit
+WwanProfileLoadFile
+WwanProfileLoadXml
+WwanValidateApn

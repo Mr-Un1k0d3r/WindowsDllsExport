@@ -1,0 +1,12 @@
+CPlApplet
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+USBControllerBandwidthPage
+USBControllerPropPageProvider
+USBDevicePropPageProvider
+USBErrorHandler
+USBHubPowerPage
+USBHubPropPageProvider
+UsbControlPanelApplet

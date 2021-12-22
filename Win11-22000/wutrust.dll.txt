@@ -1,0 +1,7 @@
+CheckSSLCertificateTrust
+DllMain
+ExtractFileFromQuorumSignedInfraCAB
+VerifyCABIntegrity
+VerifyFileTrust
+VerifyMetadataIntegrityCertChains
+VerifyTimestampTokenCertChain

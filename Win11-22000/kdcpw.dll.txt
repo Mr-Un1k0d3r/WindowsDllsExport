@@ -1,0 +1,11 @@
+CredentialUpdateFree
+CredentialUpdateNotify
+CredentialUpdateNotify2
+CredentialUpdateRegister
+CredentialUpdateRegister2
+InitializeChangeNotify
+PasswordChangeNotify
+RegisterMappedEntrypoints
+StrongNtowfFree
+StrongNtowfNotify
+StrongNtowfRegister

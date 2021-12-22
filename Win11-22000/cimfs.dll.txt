@@ -1,0 +1,15 @@
+CimAddFsToMergedImage
+CimCloseImage
+CimCloseStream
+CimCommitImage
+CimCreateAlternateStream
+CimCreateFile
+CimCreateHardLink
+CimCreateImage
+CimCreateMergedFile
+CimDeletePath
+CimDismountImage
+CimLookupFile
+CimMergeMountImage
+CimMountImage
+CimWriteStream

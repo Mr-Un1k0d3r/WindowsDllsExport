@@ -1,0 +1,8 @@
+GetExpandedResourceExclusiveCpuCount
+HasExpandedResources
+MsixvcAddGameToGCS
+MsixvcAddPackageAsync
+MsixvcRemediateMutablePackagesForVolumeAsync
+MsixvcUpdatePolicyString
+MsixvcUpdatePolicyUInt64
+ReleaseExclusiveCpuSets

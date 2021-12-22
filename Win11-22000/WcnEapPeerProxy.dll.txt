@@ -1,0 +1,4 @@
+EapPeerFreeErrorMemory
+EapPeerFreeMemory
+EapPeerGetInfo
+EapPeerGetMethodProperties

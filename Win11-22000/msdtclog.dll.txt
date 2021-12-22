@@ -1,0 +1,7 @@
+CreateInstance
+DeleteInstance
+DllGetClassObject
+DllGetDTCLOG
+DllGetDTCLOG2
+DllRegisterServer
+DllUnregisterServer

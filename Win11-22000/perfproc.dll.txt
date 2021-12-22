@@ -1,0 +1,3 @@
+CloseSysProcessObject
+CollectSysProcessObjectData
+OpenSysProcessObject

@@ -1,0 +1,5 @@
+AutoPilotGetOobeSettingsOverride
+AutoPilotGetPolicyDwordByName
+AutoPilotGetPolicyStringByName
+AutoPilotIsLocalProfileAvailable
+AutoPilotIsNetworkRequired

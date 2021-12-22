@@ -1,0 +1,5 @@
+DllRegisterServer
+DllUnregisterServer
+HrGetPnpDeviceStatus
+ServiceMain
+SvchostPushServiceGlobals

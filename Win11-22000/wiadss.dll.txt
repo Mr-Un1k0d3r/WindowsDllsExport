@@ -1,0 +1,7 @@
+CloseFindContext
+FindFirstImportDS
+FindImportDSByDeviceName
+FindNextImportDS
+GetLoaderStatus
+LoadImportDS
+UnloadImportDS

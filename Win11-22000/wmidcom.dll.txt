@@ -1,0 +1,5 @@
+??0CCritSec@@QEAA@XZ
+??1CCritSec@@QEAA@XZ
+??4CAutoSetActivityId@@QEAAAEAV0@AEBV0@@Z
+??4CCritSec@@QEAAAEAV0@AEBV0@@Z
+MI_Application_InitializeV1

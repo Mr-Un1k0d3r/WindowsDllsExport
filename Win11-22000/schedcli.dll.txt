@@ -1,0 +1,4 @@
+NetScheduleJobAdd
+NetScheduleJobDel
+NetScheduleJobEnum
+NetScheduleJobGetInfo

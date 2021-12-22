@@ -1,0 +1,9 @@
+??1CWSManCriticalSectionWithConditionVar@@QEAA@XZ
+?GetInitError@CWSManCriticalSection@@QEBAKXZ
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer
+GetProviderClassID
+MI_Main

@@ -1,0 +1,9 @@
+DSCopyFromSharedFile
+DSCreateSharedFileToken
+DSDelegateSharingToken
+DSFreeString
+DSGetSharedFileName
+DSGetSharingTokenInformation
+DSOpenSharedFile
+DSRemoveExpiredTokens
+DSRemoveSharingToken

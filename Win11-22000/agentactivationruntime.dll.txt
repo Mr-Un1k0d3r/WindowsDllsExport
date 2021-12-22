@@ -1,0 +1,4 @@
+?CreateAgentActivationRuntime@@YA?AV?$shared_ptr@VIAgentActivationRuntime@VoiceAgentServices@Microsoft@@@std@@XZ
+?GetAgentActivationRuntime@@YA?AV?$shared_ptr@VIAgentActivationRuntime@VoiceAgentServices@Microsoft@@@std@@XZ
+?GetLoggerInstance@@YAAEAVLogger@VoiceAgentServices@Microsoft@@XZ
+?ReleaseAgentActivationRuntime@@YAXXZ

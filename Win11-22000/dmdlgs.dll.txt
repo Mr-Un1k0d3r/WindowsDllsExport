@@ -1,0 +1,11 @@
+?AddLDMObjMapEntry@CDataCache@@QEAAXPEAU_LDM_OBJ_MAP_ENTRY@@@Z
+?GetDiskCount@CDataCache@@QEAAKXZ
+?GetLdmObjectId@CDMNodeObj@@QEAA_JXZ
+?GetNumMembers@CDMNodeObj@@QEAAKXZ
+?GetOcxFrameCWndPtr@CTaskData@@QEAAPEAVCWnd@@XZ
+?GetRegionColorStructPtr@CTaskData@@QEAAXPEAPEAU_REGION_COLORS@@AEAH@Z
+?GetServerName@CDataCache@@QEAA?AVCString@@XZ
+?GetVolumeCount@CDataCache@@QEAAKXZ
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer

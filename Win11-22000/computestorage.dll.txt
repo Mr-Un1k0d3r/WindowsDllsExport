@@ -1,0 +1,12 @@
+HcsAttachLayerStorageFilter
+HcsDestroyLayer
+HcsDetachLayerStorageFilter
+HcsExportLayer
+HcsExportLegacyWritableLayer
+HcsFormatWritableLayerVhd
+HcsGetLayerVhdMountPath
+HcsImportLayer
+HcsInitializeLegacyWritableLayer
+HcsInitializeWritableLayer
+HcsSetupBaseOSLayer
+HcsSetupBaseOSVolume

@@ -1,0 +1,6 @@
+AzGenerateAudit
+__GetXpVersion
+xp_AzManAddRole
+xp_AzManAddUserToRole
+xp_AzManDeleteRole
+xp_AzManRemoveUserFromRole

@@ -1,0 +1,13 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetAutoUpdatePolicy
+GetEnterprisePolicyName
+GetSkuUpdateManagementGroup
+GetUpdatePolicyName
+ReadPolicy
+ReadPolicyWithFallback
+ReleaseAutoUpdatePolicy
+ReleaseEnterprisePolicyValue
+ReleaseUpdatePolicyValue

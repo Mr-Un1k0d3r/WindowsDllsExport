@@ -1,0 +1,5 @@
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+GetDependencyLocatorStorage
+XamlTestHookFreeMapsResourceLibrary

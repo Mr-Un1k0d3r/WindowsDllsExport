@@ -1,0 +1,4 @@
+DllCanUnloadNow
+DllGetClassObject
+ServiceMain_Impl
+SvchostPushServiceGlobals_Impl

@@ -1,0 +1,6 @@
+CreateXmlReader
+CreateXmlReaderInputWithEncodingCodePage
+CreateXmlReaderInputWithEncodingName
+CreateXmlWriter
+CreateXmlWriterOutputWithEncodingCodePage
+CreateXmlWriterOutputWithEncodingName

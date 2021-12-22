@@ -1,0 +1,4 @@
+CleanupTemporaryState
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

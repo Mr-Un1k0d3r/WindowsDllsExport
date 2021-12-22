@@ -1,0 +1,15 @@
+AssertFail
+VssGetTracingContextPerThread
+VssGetTracingModuleInfo
+VssGetTracingSequenceNumber
+VssIsKernelDebuggerAttached
+VssIsTracingEnabled
+VssIsTracingEnabledOnFunction
+VssIsTracingEnabledOnModule
+VssIsTracingEnabledPerThread
+VssSetDebugReport
+VssSetTracingContextPerThread
+VssTraceBinary
+VssTraceInitialize
+VssTraceMessage
+VssTraceUninitialize

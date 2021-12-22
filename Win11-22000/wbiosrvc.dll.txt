@@ -1,0 +1,5 @@
+OutOfProcessExceptionEventCallback
+OutOfProcessExceptionEventDebuggerLaunchCallback
+OutOfProcessExceptionEventSignatureCallback
+ServiceMain
+SvchostPushServiceGlobals

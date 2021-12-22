@@ -1,0 +1,8 @@
+WpxCreateConfig
+WpxCreateWriteOpt
+WpxGetAnswerFileType
+WpxGetDeplSettings
+WpxResetDeplSettings
+WpxSetDeplSettings
+WpxSetLogger
+WpxSetScratchDirectory

@@ -1,0 +1,7 @@
+DwmpCreateSessionProcess
+DwmpIsInitialSessionInteractive
+DwmpNotifyUserLogoff
+DwmpNotifyUserLogon
+DwmpShutdownWinlogonMouseThread
+DwmpStartWinlogonMouseThread
+DwmpTerminateSessionProcess

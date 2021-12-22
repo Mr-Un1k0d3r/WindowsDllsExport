@@ -1,0 +1,13 @@
+ConstructHiveLocation
+ConstructRegLocation
+CreateLalInstance
+CreateSettingsEnginePriv
+CreateWcmEngineCore
+DeleteCompilerObject
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetCompilerObject
+GetItemFromCoreObject
+SetLalCreator

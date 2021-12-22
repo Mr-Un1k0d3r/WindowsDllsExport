@@ -1,0 +1,2 @@
+SvcEntry_Seclogon
+SvchostPushServiceGlobals

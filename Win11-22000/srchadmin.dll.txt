@@ -1,0 +1,4 @@
+CPlApplet
+DllCanUnloadNow
+DllGetClassObject
+ProcessGroupPolicy

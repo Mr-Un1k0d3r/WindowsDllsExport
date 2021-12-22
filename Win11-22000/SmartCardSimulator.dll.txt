@@ -1,0 +1,15 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+Microsoft_WDF_UMDF_Version
+VGidsSimulatorCreate
+VGidsSimulatorDestroy
+VGidsSimulatorReadProperties
+VGidsSimulatorWriteProperties
+VTransportClose
+VTransportDeinitialize
+VTransportInitialize
+VTransportOpen
+VTransportReceive
+VTransportTransmit

@@ -1,0 +1,4 @@
+BfeGetDirectDispatchTable
+BfeOnServiceStartTypeChange
+BfeServiceMain
+SvchostPushServiceGlobals

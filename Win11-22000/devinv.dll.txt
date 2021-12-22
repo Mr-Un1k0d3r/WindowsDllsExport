@@ -1,0 +1,9 @@
+CreateDeviceInventory
+CreateDeviceInventoryTC
+CreateDeviceInventoryTC2
+GetAndSendSigningInfo
+GetDevInventory
+ReportDeviceAdd
+ReportDeviceRemove
+RunDeviceInventoryW
+SetDevInvDebugCorrelationVector

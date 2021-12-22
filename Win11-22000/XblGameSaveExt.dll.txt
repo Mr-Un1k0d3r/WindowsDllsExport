@@ -1,0 +1,4 @@
+XblGameSave_GetUserStorageRoot
+XblGameSave_NTMSCreateInstance
+XblGameSave_NTMSServerStart
+XblGameSave_NTMSServerStop

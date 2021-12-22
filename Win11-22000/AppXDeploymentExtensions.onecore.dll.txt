@@ -1,0 +1,3 @@
+LoadCategoryNameTable
+LoadExtensionRegistrationTable
+ShellRefresh

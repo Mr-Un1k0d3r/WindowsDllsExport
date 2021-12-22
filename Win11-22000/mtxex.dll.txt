@@ -1,0 +1,4 @@
+DllGetClassObject
+GetObjectContext
+MTSCreateActivity
+SafeRef

@@ -1,0 +1,9 @@
+BTCpuGetBopCode
+BTCpuGetContext
+BTCpuProcessInit
+BTCpuResetToConsistentState
+BTCpuSetContext
+BTCpuSimulate
+BTCpuTurboThunkControl
+TurboDispatchJumpAddressEnd
+TurboDispatchJumpAddressStart

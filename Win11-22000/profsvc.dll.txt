@@ -1,0 +1,4 @@
+GetExclusionListFromRegistry
+GetUserChoiceForSlowLink
+GetUserPreferenceValue
+UserProfileServiceMain

@@ -1,0 +1,6 @@
+DllGetClassObject
+WLFreeProfile
+WLFreeProfileXml
+WLInvokeProfileUI
+WLInvokeProfileUIFromXMLFile
+WlanUIEditProfile

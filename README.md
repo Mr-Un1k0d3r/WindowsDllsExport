@@ -3,14 +3,11 @@ A list of all the DLLs export in C:\windows\system32\
 
 The idea is to find some interesting export that can be used to evade some detection.
 
-The list was extracted from the following build
+The list was extracted from the following builds:
 
 ```
-PS> [Environment]::OSVersion.Version
-
-Major  Minor  Build  Revision
------  -----  -----  --------
-10     0      19043  0
+Windows 10 Build 19043
+Windows 11 Build 22000
 ```
 
 # Generate The List By Yourself

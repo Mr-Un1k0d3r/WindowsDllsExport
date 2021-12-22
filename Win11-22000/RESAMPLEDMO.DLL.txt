@@ -1,0 +1,5 @@
+CreateInstance
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

@@ -1,0 +1,8 @@
+CollectDiagnosticsAutoLog
+GatherAutoLogEventsFromMobile
+RecordDiagnosticsError
+SetupAutoLog
+SetupAutoLogWithTraceLevel
+StartAutoLog
+StopAutoLog
+TearDownAutoLog

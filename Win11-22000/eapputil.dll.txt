@@ -1,0 +1,9 @@
+DllCanUnloadNow
+DllGetActivationFactory
+EapConvertHostToWireFormat16
+EapConvertHostToWireFormat24
+EapConvertHostToWireFormat32
+EapConvertWireToHostFormat16
+EapConvertWireToHostFormat24
+EapConvertWireToHostFormat32
+EapUseLegacyTlsStack

@@ -1,0 +1,4 @@
+MI_Application_NewDeserializer_Binary
+MI_Application_NewSerializer_Binary
+NITS_PRESENCE_STUB
+NITS_STUB

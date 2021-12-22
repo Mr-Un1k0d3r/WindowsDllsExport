@@ -1,0 +1,10 @@
+LpkDrawTextEx
+LpkEditControl
+LpkExtTextOut
+LpkGetCharacterPlacement
+LpkGetTextExtentExPoint
+LpkInitialize
+LpkPSMTextOut
+LpkTabbedTextOut
+LpkUseGDIWidthCache
+ftsWordBreak

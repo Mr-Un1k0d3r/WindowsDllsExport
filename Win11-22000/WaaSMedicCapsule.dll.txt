@@ -1,0 +1,12 @@
+DllMain
+EnumeratePlugins
+GetPluginDefaultSettings
+GetSettingsName
+Plugin_DetectCondition
+Plugin_Init
+Plugin_IsActionApplicable2
+Plugin_IsEnabled
+Plugin_IsInteractiveOnly
+Plugin_PerformAction
+Plugin_Uninit
+SetCorrelationVector

@@ -1,0 +1,8 @@
+JsThunk_AllocateData
+JsThunk_Cleanup
+JsThunk_CleanupDefer
+JsThunk_CleanupFinish
+JsThunk_DataToCode
+JsThunk_GetSize
+JsThunk_InitData
+JsThunk_Is

@@ -1,0 +1,6 @@
+AddDemoAppLicense
+HrAddAppxLicense
+HrInstallClipLicense
+HrNotifyPhoneLicenseReady
+HrRemoveAppxLicense
+RemoveDemoAppLicense

@@ -1,0 +1,14 @@
+Cab_CheckForFile
+Cab_CheckIsCabinet
+Cab_CreateCab
+Cab_CreateCabSelected
+Cab_Extract
+Cab_ExtractOne
+Cab_ExtractOneToBuffer
+Cab_ExtractSelected
+Cab_ExtractSelectedToTarget
+Cab_FreeBuffer
+Cab_FreeFileList
+Cab_FreeFileSizeList
+Cab_GetFileList
+Cab_GetFileSizeList

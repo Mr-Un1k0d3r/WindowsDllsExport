@@ -1,0 +1,9 @@
+AcmEngineApply
+AcmEngineCollect
+AcmEngineCreate
+AcmEngineDelete
+AcmEngineGenerateMigXml
+AcmEngineGetCapabilityList
+AcmEngineSetBaseWorkingDirectory
+AcmMatchPluginExecute
+ApplyMigrationShimsW

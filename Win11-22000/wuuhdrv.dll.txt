@@ -1,0 +1,7 @@
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+WUCreateDriverUtil
+WUCreateExpressionEvaluator
+WUCreateUpdateHandler
+WUGetHardwareIdInfo

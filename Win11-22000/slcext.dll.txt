@@ -1,0 +1,9 @@
+SLAcquireGenuineTicket
+SLActivateProduct
+SLGetPackageProductKey
+SLGetPackageProperties
+SLGetPackageToken
+SLGetReferralInformation
+SLGetServerStatus
+SLInstallPackage
+SLUninstallPackage

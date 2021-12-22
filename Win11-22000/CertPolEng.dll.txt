@@ -1,0 +1,14 @@
+IntPstGetCertificate
+IntPstGetNameIdentifierForCertificate
+IntPstGetTrustAnchors
+IntPstMapCertificateToProvider
+IntPstMapUserCredsToProvider
+IntPstValidate
+PstAcquirePrivateKey
+PstGetCertificateChain
+PstGetCertificates
+PstGetTrustAnchors
+PstGetTrustAnchorsEx
+PstGetUserNameForCertificate
+PstMapCertificate
+PstValidate

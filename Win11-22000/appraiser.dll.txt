@@ -1,0 +1,13 @@
+ContainerSetupFunction
+ContainerSetupWrapper
+DoScheduledTelemetryRun
+DoScheduledTelemetryRunTC
+GetCtacProvider
+GetProvider
+GetTargetVersionList
+RunTest
+RunXml
+Sgd
+UpdateAvStatus
+UpdateCacheCompatStatuses
+UpdateExperienceIndicators

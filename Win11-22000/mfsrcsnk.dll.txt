@@ -1,0 +1,4 @@
+DllCanUnloadNow
+DllGetClassObject
+MFCreateAVIMediaSink
+MFCreateWAVEMediaSink

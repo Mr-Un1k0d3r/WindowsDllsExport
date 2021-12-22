@@ -1,0 +1,13 @@
+UtcClearTimerConfiguration
+UtcCloseSessionHandle
+UtcCreateSessionHandle
+UtcDownloadLatestSettingsForNamespaceEx
+UtcEscalateScenarioEx
+UtcForceUpload
+UtcGetTimerConfiguration
+UtcIsScenarioActive
+UtcSetTelemetryOptIn
+UtcTenantRegister
+UtcTenantUnregister
+UtcTenantUpdateDailyUploadQuota
+UtcUpdateTimerConfiguration

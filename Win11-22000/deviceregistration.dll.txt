@@ -1,0 +1,6 @@
+ConfigureRegistrationIEZoneMappings
+DiscoverRegistrationService
+GetRegistrationInfo
+IsRegistrationAvailable
+RegisterDevice
+UnRegisterDevice

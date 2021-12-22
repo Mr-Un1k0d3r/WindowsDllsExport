@@ -1,0 +1,3 @@
+IsDestinationReachableA
+IsDestinationReachableW
+IsNetworkAlive

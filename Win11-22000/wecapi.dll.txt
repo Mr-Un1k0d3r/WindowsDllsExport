@@ -1,0 +1,17 @@
+EcClose
+EcDeleteSubscription
+EcEnumNextSubscription
+EcGetObjectArrayProperty
+EcGetObjectArraySize
+EcGetSubscriptionProperty
+EcGetSubscriptionRunTimeStatus
+EcInsertObjectArrayElement
+EcIsConfigRequired
+EcOpenSubscription
+EcOpenSubscriptionEnum
+EcQuickConfig
+EcRemoveObjectArrayElement
+EcRetrySubscription
+EcSaveSubscription
+EcSetObjectArrayProperty
+EcSetSubscriptionProperty
